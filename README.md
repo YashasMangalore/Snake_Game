@@ -10,7 +10,6 @@ Develop a classic Snake game using JavaSwing, focusing on controlling the snake,
 - Display score and game over message.
 
 ## Technologies Used
-- JavaScript
 - Java Swing library for lightweight window-based applications.
 
 ## Development Process
@@ -28,7 +27,3 @@ Develop a classic Snake game using JavaSwing, focusing on controlling the snake,
 
 ## Resources
 - [Java Swing Documentation](https://docs.oracle.com/javase/tutorial/uiswing/)
-- [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-## License
-This project is licensed under the [MIT License](LICENSE).
