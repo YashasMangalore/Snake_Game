@@ -24,6 +24,3 @@ Develop a classic Snake game using JavaSwing, focusing on controlling the snake,
 - Clone the repository.
 - Open the project in a Java IDE.
 - Compile and run the code to start playing the Snake game.
-
-## Resources
-- [Java Swing Documentation](https://docs.oracle.com/javase/tutorial/uiswing/)
